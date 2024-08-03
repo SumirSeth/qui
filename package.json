@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/SumirSeth/qui/issues"
   },
-  "homepage": "https://github.com/SumirSeth/qui#readme"
+  "homepage": "https://github.com/SumirSeth/qui#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5"
+  }
 }
