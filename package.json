@@ -1,0 +1,19 @@
+{
+  "name": "qui",
+  "version": "1.0.0",
+  "description": "A discord.js bot for learning purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SumirSeth/qui.git"
+  },
+  "author": "Sumir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SumirSeth/qui/issues"
+  },
+  "homepage": "https://github.com/SumirSeth/qui#readme"
+}
